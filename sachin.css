@@ -1,0 +1,38 @@
+.col-md-4.a{
+	height:28%;
+	background-color:grey;
+}
+.col-md-4.b{
+	height:28%;
+	background-color:grey;
+}
+.col-md-1.a{
+	height:28%;
+	background-color:grey;
+}
+.col-md-1.b{
+	height:28%;
+	background-color:grey;
+}
+
+.col-md-1.c{
+	height:28%;
+	background-color:grey;
+}
+
+.col-md-1.d{
+	height:28%;
+	background-color:grey;
+}
+
+.col-md-4.c{
+	height:200%;
+	background-color:yellow;
+}
+.col-md-8.a{
+	height:28%;
+	background-color:azure;
+}
+img-circle {
+    border-radius: 50%;
+}
